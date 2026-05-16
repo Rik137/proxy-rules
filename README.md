@@ -1,4 +1,3 @@
-# proxy-rules
 # proxy rules
 This project is a list and set of modules for routing blocked websites and applications.
 
