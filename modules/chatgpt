@@ -1,5 +1,5 @@
 #!name=chatgpt
-#!desc=chatgpt domains
+#!desc=OpenAI / ChatGPT rules
 
 DOMAIN,api.statsig.com,PROXY
 DOMAIN,browser-intake-datadoghq.com,PROXY
