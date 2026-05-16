@@ -1,6 +1,6 @@
-# Russia
-!#name=GEO
-!#desc=hololocation domains(Russia)
+#!name=GEO
+#!desc=hololocation domains(Russia)
+
 DOMAIN-SUFFIX,*.xn--p1ai,DIRECT
 GEOIP,RU,DIRECT
 

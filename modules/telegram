@@ -1,5 +1,5 @@
 #!name=telegram
-#!name=telegram domains
+#!desc=telegram domains
 
 DOMAIN-SUFFIX,t.me,PROXY
 DOMAIN-SUFFIX,tdesktop.com,PROXY
